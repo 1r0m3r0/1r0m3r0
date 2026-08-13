@@ -45,11 +45,12 @@ Economista y magíster en Gestión Financiera, con 6+ años de trading algorítm
 | [**defi-smart-contract**](https://github.com/1r0m3r0/defi-smart-contract) | Escrow en Solidity con tests Foundry (unit + fuzz) | ✅ CI |
 | [**sentiment-nlp**](https://github.com/1r0m3r0/sentiment-nlp) | Sentimiento financiero (NLP) correlacionado con retornos | ✅ CI |
 
-### 📊 Estadísticas
+### 📊 GitHub
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=1r0m3r0&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1r0m3r0&layout=compact&theme=chartreuse-dark&hide_border=true" alt="top langs" />
+  <a href="https://github.com/1r0m3r0?tab=followers"><img src="https://img.shields.io/github/followers/1r0m3r0?label=Followers&style=flat-square&logo=github&color=00ba10" alt="followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=1r0m3r0&label=Profile+views&color=00ba10&style=flat-square" alt="profile views" />
+  <a href="https://github.com/1r0m3r0?tab=repositories"><img src="https://img.shields.io/badge/Repos%20p%C3%BAblicos-13-00ba10?style=flat-square&logo=github" alt="repos" /></a>
 </p>
 
 <!-- Animación de contribuciones (snake) -->
