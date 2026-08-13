@@ -9,6 +9,7 @@ Doctorando en Ciencias de la Ingeniería · Investigador publicado en gobernanza
 <p align="left">
   <a href="https://israelromero.xyz"><img src="https://img.shields.io/badge/Web-israelromero.xyz-00ba10?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/israelromeroapo/"><img src="https://img.shields.io/badge/LinkedIn-israelromeroapo-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://orcid.org/0009-0003-3547-9891"><img src="https://img.shields.io/badge/ORCID-0009--0003--3547--9891-A6CE39?style=flat-square&logo=orcid&logoColor=white"></a>
   <a href="https://doi.org/10.5281/zenodo.21607554"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21607554-blue?style=flat-square"></a>
 </p>
 
